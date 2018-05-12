@@ -1,0 +1,33 @@
+_repo: Story-of-the-Bible-Animalsis-made-to-them_44685
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44685-h/images/coverpage.jpg
+creator:
+  author:
+    agent_name: Wood, J. G. (John George)
+    aliases:
+    - Wood, John George
+    - Forrest, George
+    birthdate: 1827
+    deathdate: 1889
+    gutenberg_agent_id: '8330'
+    url: http://www.gutenberg.org/2009/agents/8330
+description: ''
+gutenberg_issued: '2014-01-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44685'
+  lccn: '04030040'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BS'
+- !lcsh 'Animals in the Bible'
+- !lcsh 'Nature in the Bible'
+title: "Story of the Bible Animals\r\nA Description of the Habits and Uses of every\
+  \ living Creature mentioned in the Scriptures, with Explanation of Passages in the\
+  \ Old and New Testament in which Reference is made to them"
+url: http://www.gutenberg.org/ebooks/44685
