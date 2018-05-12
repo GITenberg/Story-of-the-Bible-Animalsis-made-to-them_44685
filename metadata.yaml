@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '8330'
     url: http://www.gutenberg.org/2009/agents/8330
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44685#Story-of-the-Bible-Animalsis-made-to-them
 gutenberg_issued: '2014-01-17'
 gutenberg_type: Text
 identifiers:
